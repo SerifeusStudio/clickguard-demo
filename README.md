@@ -2,8 +2,10 @@
 
 Two artifacts built for my application to the AI Automation Engineer role at ClickGUARD.
 
-**Live URLs:**
-- Landing: <https://raulcontrerasherrera.com/clickguard/>
+**→ Start here:** <https://raulcontrerasherrera.com/clickguard/>
+
+**Direct links:**
+- Landing page: <https://raulcontrerasherrera.com/clickguard/>
 - Interactive tool: <https://raulcontrerasherrera.com/clickguard/tool/>
 - Written audit: <https://raulcontrerasherrera.com/clickguard/audit/>
 
